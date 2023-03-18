@@ -3,6 +3,8 @@
 
 A simple CLI Snake written in F#
 
+Cited in [Rosetta Code Snake](https://rosettacode.org/wiki/Snake#F#) examples!
+
 ![Snake.fs](./snake.gif)
 
 ## Prerequisites
